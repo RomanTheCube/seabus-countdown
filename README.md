@@ -43,7 +43,7 @@ For complete details, see our [Privacy Policy](privacy-policy.md).
 
 ## Data Source
 
-All departure data comes from [TransLink](https://www.translink.ca/), Metro Vancouver's regional transportation authority. This is an unofficial third-party app and is not affiliated with or endorsed by TransLink.
+All departure times come from [TransLink](https://www.translink.ca/), Metro Vancouver's regional transportation authority. This is an unofficial third-party app and is not affiliated with or endorsed by TransLink.
 
 ## Disclaimer
 
